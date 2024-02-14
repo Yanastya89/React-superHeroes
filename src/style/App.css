@@ -1,0 +1,25 @@
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+#root {
+  margin: 0 auto;
+   text-align: center;
+   font-family: 'Pangolin', cursive;
+   font-size: 3vw;
+
+}
+
+.card-wrapper{
+  max-width: 100%;
+  padding: 2%;
+  text-align: center;
+  display: flex;
+  flex-wrap: wrap;
+  font-family: 'Pangolin', cursive;
+  font-size: 1.5vw;
+  gap: 2vw;
+  }
