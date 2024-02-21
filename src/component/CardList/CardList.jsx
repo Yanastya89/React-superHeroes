@@ -1,6 +1,6 @@
 import React from "react";
 import Card from "../Card/Card";
-import heroes from "../../heroes";
+import heroes from "../../data/heroes";
 
 function CardList() {
   return (
